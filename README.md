@@ -2,7 +2,7 @@
     A Keyword Artificial Intelligence for doing all the game engine hard work
     for the user to save more than half the time. 
 
-![Image of the OPSys](https://i.ibb.co/4YhxFSh/ezgif-com-video-to-gif.gif)
+![Image of the OPSys](https://i.ibb.co/Xx0fxD5/ezgif-com-video-to-gif-1.gif)
 
 # Stages
 
