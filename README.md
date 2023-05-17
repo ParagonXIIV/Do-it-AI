@@ -7,6 +7,8 @@
 # Stages
 
     At the moment it does a simple auto int main code..
+    It is really bare bone so a lot of room to improve.
+    Like it never put the " " inbetween the printf string.
     
     
 # Plans
