@@ -1,6 +1,6 @@
 # Do-it-AI
-    A Keyword Artificial Intelligence for doing all the game engine hard work
-    for the user to save more than half the time..
+    A Keyword Artificial Intelligence for doing all the game engine, 
+    Reverse Engineering work for the user.
 
 ![Image of the OPSys](https://i.ibb.co/Xx0fxD5/ezgif-com-video-to-gif-1.gif)
 
